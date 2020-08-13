@@ -1,6 +1,11 @@
 # Expedition
 
-Expedition is a new gamemode for Rain World featuring randomised starting locations, challenges and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random challenges. Complete expeditions with certain conditions to unlock new perks for use in future runs or badges for showing off your skills.
+Expedition is a new gamemode for Rain World featuring randomised starting locations, challenges and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random challenges. Earn points by taking on more and more difficult challenges to unlock new perks and abilities.
+
+## Installation
+
+Enum Extender is required for Expeditions to function correctly, you can find this in the 'Tools' tab on RainDB.
+To install Expeditions, simply place the Expedition.dll file into your 'Mods' folder and apply both it and Enum Extender with Partiality, or if using BepInEx, place it in your Plugins folder.
 
 ## Difficulty
 
@@ -20,7 +25,30 @@ There are four types of challenges in Expedition mode:
 - Combat: Kill the specified amount of a certain creature.
 - Echo: Encounter the specified Echo.
 - Achievement: Earn the specified achievement.
+- Miscellaneous: Currently this only includes recieving the Mark from 5P.
 
 ## Unlocks
 
-By successfully completing expeditions with certain requirements you can unlock new perks for use in future runs. For example one unlock may require that you complete an expedition on normal difficulty with at least 5 challenges. A perk may be anything from starting with reinforced karma, to a double-jump ability.
+Earned by acquiring a certain total number of points from successful expeditions you can unlock the following perks and abilities to assist with future expeditions:
+
+**Perks**
+- Start with reinforced karma
+- Start with neuron glow
+- Expand possible starting locations
+- Cycles are max duration
+- All slugcats move faster
+
+**Abilities**
+- Slow Time (Slow down time for a limited duration)
+- Spear Expert (You can carry a spear in each hand, and all slugcats can carry a spear on their back)
+- Stealth form (A camouflaged form that makes you much harded to detect)
+- Double jump (Jump a second time in mid-air, or launch high into the air from a crouched position)
+- Mark and Recall (Place a warp marker at your current location and return to it from anywhere in the same region)
+
+## Additional Information
+
+When on an Expedition be aware that your progress towards challenge completion is only saved when you rest. If you complete a challenge during a cycle but die before making it back to your shelter, the progress will be undone. Echo challenges are the only exception to this.
+
+In the case of Pearl challenges, if at some point in your journey you lose a pearl in one way or another, that challenge will become unbeatable. In this scenario you have two options, you can either abandon your expedition and begin a new one or...
+
+You can ascend during a normal Expedition, however the requirements to do so have not changed, and any challenges that you have not completed will not be counted in point calculation. The screen will fade out once you enter the Void Sea, you do not need to go through the whole sequence.
