@@ -1,6 +1,6 @@
 # Expedition
 
-Expedition is a new gamemode for Rain World featuring randomised starting locations, challenges and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random challenges. Earn points by taking on more and more difficult challenges to unlock new perks and abilities.
+Expedition is a new gamemode for Rain World featuring random starting locations, challenges, new abilities and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random challenges. Earn points by taking on more and more difficult challenges to unlock new perks and abilities.
 
 ## Installation
 
