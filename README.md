@@ -57,3 +57,5 @@ In the case of Pearl challenges, if at some point in your journey you lose a pea
 You can ascend during a normal Expedition, however the requirements to do so have not changed, and any challenges that you have not completed will not be counted in point calculation. The screen will fade out once you enter the Void Sea, you do not need to go through the whole sequence.
 
 Currently, Monk cannot take on Pearl challenges, however this may change.
+
+Save data for both your current Expedition and your global progress is stored in your UserData folder.
