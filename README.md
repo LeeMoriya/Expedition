@@ -1,6 +1,6 @@
+![ExpeditionMenu](https://i.imgur.com/bzV99Hn.png)
 # Expedition
 
-![ExpeditionMenu](https://i.imgur.com/bzV99Hn.png)
 Expedition is a new gamemode for Rain World featuring random starting locations, challenges, new abilities and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random challenges. Earn points by taking on more and more difficult challenges to unlock new perks and abilities.
 
 ## Installation
@@ -17,6 +17,8 @@ There are also Easy, Normal and Hard difficulties to choose from with the follow
 - Easy: No permadeath
 - Normal: Dying at the lowest karma level will end the run
 - Hard: Dying at all will end the run (not for the faint of heart)
+
+Karma flowers act as your safety net, as permadeath will not occur if you karma is reinforced when you die.
 
 ## Challenges
 
@@ -53,3 +55,5 @@ When on an Expedition be aware that your progress towards challenge completion i
 In the case of Pearl challenges, if at some point in your journey you lose a pearl in one way or another, that challenge will become unbeatable. In this scenario you have two options, you can either abandon your expedition and begin a new one or...
 
 You can ascend during a normal Expedition, however the requirements to do so have not changed, and any challenges that you have not completed will not be counted in point calculation. The screen will fade out once you enter the Void Sea, you do not need to go through the whole sequence.
+
+Currently, Monk cannot take on Pearl challenges, however this may change.
