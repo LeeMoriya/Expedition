@@ -22,7 +22,7 @@ Karma flowers act as your safety net, as permadeath will not occur if you karma 
 
 ## Challenges
 
-There are four types of challenges in Expedition mode:
+There are five types of challenges in Expedition mode:
 
 - Pearls: Find and transport a unique pearl to Moon.
 - Combat: Kill the specified amount of a certain creature.
