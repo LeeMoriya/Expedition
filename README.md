@@ -1,7 +1,7 @@
 ![ExpeditionMenu](https://i.imgur.com/bzV99Hn.png)
 # Expedition
 
-Expedition is a new gamemode for Rain World featuring random starting locations, challenges, new abilities and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random challenges. Earn points by taking on more and more difficult challenges to unlock new perks and abilities.
+Expedition is a new gamemode for Rain World featuring random starting locations, challenges, new abilities and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random tasks. Earn points by taking on more and more difficult challenges to unlock new perks and abilities.
 
 ## Installation
 
@@ -28,17 +28,17 @@ There are five types of challenges in Expedition mode:
 - Combat: Kill the specified amount of a certain creature.
 - Echo: Encounter the specified Echo.
 - Achievement: Earn the specified achievement.
-- Miscellaneous: Currently this only includes recieving the Mark from 5P.
+- Miscellaneous: Challenges that don't fit in other categories
 
 ## Unlocks
 
-Earned by acquiring a certain total number of points from successful expeditions you can unlock the following perks and abilities to assist with future expeditions:
+Earned by acquiring a certain total number of points from successful expeditions you can unlock the following perks and abilities to assist with future runs:
 
 **Perks**
 - Start with reinforced karma
 - Start with neuron glow
 - Expand possible starting locations
-- Cycles are max duration
+- Start with higher karma
 - All slugcats move faster
 
 **Abilities**
@@ -48,14 +48,29 @@ Earned by acquiring a certain total number of points from successful expeditions
 - Double jump (Jump a second time in mid-air, or launch high into the air from a crouched position)
 - Mark and Recall (Place a warp marker at your current location and return to it from anywhere in the same region)
 
+## Burdens
+
+Burdens are additional penalties you can apply to your expedition to make it harder in return for more points. These are unlocked by completing 1-4 expeditions:
+
+- Hunted: Predators always know where you are, and they are coming.
+- Starved: You begin each cycle malnourished and prone to exhaustion.
+- Blinded: All regions become shrouded in darkness.
+- Doomed: Adjustable cycle limit, more points are earned for fewer cycles.
+
 ## Additional Information
 
-When on an Expedition be aware that your progress towards challenge completion is only saved when you rest. If you complete a challenge during a cycle but die before making it back to your shelter, the progress will be undone. Echo challenges are the only exception to this.
+The following changes have been made to certain mechanics while on a Expedition:
 
-In the case of Pearl challenges, if at some point in your journey you lose a pearl in one way or another, that challenge will become unbeatable. In this scenario you have two options, you can either abandon your expedition and begin a new one or...
-
-You can ascend during a normal Expedition, however the requirements to do so have not changed, and any challenges that you have not completed will not be counted in point calculation. The screen will fade out once you enter the Void Sea, you do not need to go through the whole sequence.
+- Hunter has no cycle limit.
+- Visiting Pebbles will only raise your karma cap by two.
+- Hunter must visit echoes first before they will spawn.
+- Achievements are not gated behind the Survivor achievement.
+- Echoes will not spawn in the first cycle.
 
 Currently, Monk cannot take on Pearl challenges, however this may change.
+
+With the exception of Echo and Achievement challenges, progress towards challenge completion is only saved when you rest.
+
+In the event that a challenge becomes impossible to complete, e.g. a pearl becomes lost. You can end the Expedition prematurely by entering the void sea. You will not be forced through the entire sequence, but points for incomplete challenges will not be awarded.
 
 Save data for both your current Expedition and your global progress is stored in your UserData folder.
