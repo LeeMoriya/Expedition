@@ -62,6 +62,7 @@ Burdens are additional penalties you can apply to your expedition to make it har
 The following changes have been made to certain mechanics while on a Expedition:
 
 - Hunter has no cycle limit.
+- Moon is alive and well when playing as Hunter.
 - Visiting Pebbles will only raise your karma cap by two.
 - Hunter must visit echoes first before they will spawn.
 - Achievements are not gated behind the Survivor achievement.
