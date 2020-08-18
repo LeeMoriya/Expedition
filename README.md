@@ -70,7 +70,7 @@ The following changes have been made to certain mechanics while on a Expedition:
 
 Currently, Monk cannot take on Pearl challenges, however this may change.
 
-With the exception of Echo and Achievement challenges, progress towards challenge completion is only saved when you rest.
+With the exception of Echo and Achievement challenges, progress towards challenge completion is only saved when you rest. If you began the cycle with 3/5 creatures killed, killed two more during the cycle, but then die before making back to a shelter, your progress will be reset to 3/5.
 
 In the event that a challenge becomes impossible to complete, e.g. a pearl becomes lost. You can end the Expedition prematurely by entering the void sea. You will not be forced through the entire sequence, but points for incomplete challenges will not be awarded.
 
