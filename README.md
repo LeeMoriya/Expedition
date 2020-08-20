@@ -25,7 +25,7 @@ There are also Easy, Normal and Hard difficulties to choose from with the follow
 - Normal: Dying at the lowest karma level will end the run
 - Hard: Dying at all will end the run (not for the faint of heart)
 
-Karma flowers act as your safety net, as permadeath will not occur if you karma is reinforced when you die. 
+Karma flowers act as your safety net, as permadeath will not occur if your karma is reinforced when you die. 
 
 ## Challenges
 
