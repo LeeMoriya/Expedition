@@ -8,7 +8,7 @@ Expedition is a new gamemode for Rain World featuring random starting locations,
 
 ## Installation
 
-**[Download the latest version of Expedition here](https://github.com/LeeMoriya/Expedition/releases)**
+**[Download the latest version of Expedition here](https://github.com/LeeMoriya/Expedition/releases/tag/v1.0)**
 
 
 [Enum Extender](https://beestuff.pythonanywhere.com/audb/api/mods/0/1/download/latest) is required for Expeditions to function correctly, you can find this in the 'Tools' tab on RainDB.
