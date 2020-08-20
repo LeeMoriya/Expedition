@@ -11,7 +11,7 @@ Expedition is a new gamemode for Rain World featuring random starting locations,
 [Download the latest version here](https://github.com/LeeMoriya/Expedition/releases)
 
 
-Enum Extender is required for Expeditions to function correctly, you can find this in the 'Tools' tab on RainDB.
+[Enum Extender](https://beestuff.pythonanywhere.com/audb/api/mods/0/1/download/latest) is required for Expeditions to function correctly, you can find this in the 'Tools' tab on RainDB.
 To install Expeditions, simply place the Expedition.dll file into your 'Mods' folder and apply both it and Enum Extender with Partiality, or if using BepInEx, place it in your Plugins folder.
 
 ## Difficulty
