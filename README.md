@@ -1,9 +1,15 @@
 ![ExpeditionMenu](https://i.imgur.com/bzV99Hn.png)
 # Expedition
+**[WARNING] Despite every attempt to remove bugs, some may remain.**
+**Please keep this in mind as you play this initial release.**
+
 
 Expedition is a new gamemode for Rain World featuring random starting locations, challenges, new abilities and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random tasks. Earn points by taking on more and more difficult challenges to unlock new perks and abilities.
 
 ## Installation
+
+[Download the latest version here](https://github.com/LeeMoriya/Expedition/releases)
+
 
 Enum Extender is required for Expeditions to function correctly, you can find this in the 'Tools' tab on RainDB.
 To install Expeditions, simply place the Expedition.dll file into your 'Mods' folder and apply both it and Enum Extender with Partiality, or if using BepInEx, place it in your Plugins folder.
