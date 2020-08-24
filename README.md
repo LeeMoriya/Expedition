@@ -8,7 +8,7 @@ Expedition is a new gamemode for Rain World featuring random starting locations,
 
 ## Installation
 
-**[Download the latest version of Expedition here](https://github.com/LeeMoriya/Expedition/releases/tag/v1.0)**
+**[Download the latest version of Expedition here](https://github.com/LeeMoriya/Expedition/releases/tag/v1.05)**
 
 
 [Enum Extender](https://beestuff.pythonanywhere.com/audb/api/mods/0/1/download/latest) is required for Expeditions to function correctly, you can find this in the 'Tools' tab on RainDB.
@@ -30,7 +30,7 @@ Karma flowers act as your safety net, as permadeath will not occur if your karma
 
 There are five types of challenges in Expedition mode:
 
-- Pearls: Find and transport a unique pearl to Moon.
+- Pearls: Challenges related to pearl collecting.
 - Combat: Kill the specified amount of a certain creature.
 - Echo: Encounter the specified Echo.
 - Achievement: Earn the specified achievement.
@@ -73,8 +73,6 @@ The following changes have been made to certain mechanics while on a Expedition:
 - Hunter must visit echoes first before they will spawn.
 - Achievements are not gated behind the Survivor achievement.
 - Echoes will not spawn in the first cycle.
-
-Currently, Monk cannot take on Pearl challenges, however this may change.
 
 With the exception of Echo and Achievement challenges, progress towards challenge completion is only saved when you rest. If you began the cycle with 3/5 creatures killed, killed two more during the cycle, but then die before making it back to a shelter, your progress will be reset to 3/5.
 
