@@ -1,0 +1,17 @@
+----------------------------------
+[24/08/20] - Version 1.05 Released
+----------------------------------
+- Fixed combat challenge text being overwritten once completed.
+- Help text and stats screen moved to a new 'Help & Stats' section.
+- Method for generating new challenges was rewritten, shouldn't be possible to get duplicates anymore.
+- Increased the minimum and maximum number of kills needed for combat challenges.
+- Added Miros Birds and Red Centipedes to the combat challenge pool.
+- Fixed an issue with Stealth Form's effects not applying to Slugcat, or wearing off early.
+- Default starting locations were changed and more were added (even without the unlock).
+- Added challenge filter controls to the expedition screen so you can specify what types of challenges you want.
+- Monk now has some pearl related challenges available.
+- Added 5 more miscellaneous challenges.
+- Adjustments to point calculation.
+----------------------------------
+[21/08/20] - Version 1.0 Released
+----------------------------------
