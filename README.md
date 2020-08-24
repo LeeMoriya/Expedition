@@ -1,7 +1,6 @@
 ![ExpeditionMenu](https://i.imgur.com/bzV99Hn.png)
 # Expedition
-**[WARNING] Despite every attempt to remove bugs, some may remain.**
-**Please keep this in mind as you play this initial release.**
+**[UPDATE 24/08/20] Version 1.05 released, [view the changelog here](https://github.com/LeeMoriya/Expedition/blob/master/Changelog.txt)**
 
 [Watch the release trailer here!](https://streamable.com/d6h8mi)
 
