@@ -4,16 +4,16 @@
 
 **This mod now supports [AutoUpdate](https://beestuff.pythonanywhere.com/audb/api/mods/0/0/download/latest), keep both enabled and you'll always recieve the latest version when it's available.**
 
-[Watch the release trailer here!](https://streamable.com/d6h8mi)
-
 Expedition is a new gamemode for Rain World featuring random starting locations, challenges, new abilities and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random tasks. Earn points by taking on more and more difficult challenges to unlock new perks and abilities.
+
+[Watch the release trailer here!](https://streamable.com/d6h8mi)
 
 ## Installation
 
 **[Download the latest version of Expedition here](https://github.com/LeeMoriya/Expedition/releases/tag/v1.05)**
 
 
-[Enum Extender](https://beestuff.pythonanywhere.com/audb/api/mods/0/1/download/latest) is required for Expedition to function correctly, you can find this in the 'Tools' tab on RainDB.
+**[Enum Extender](https://beestuff.pythonanywhere.com/audb/api/mods/0/1/download/latest)** is required for Expedition to function correctly, you can find this in the 'Tools' tab on RainDB.
 
 To install Expeditions, simply place the Expedition.dll file into your 'Mods' folder and apply both it and Enum Extender with Partiality, or if using BepInEx, place it in your Plugins folder.
 
