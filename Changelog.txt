@@ -1,4 +1,18 @@
 ----------------------------------
+[12/09/20] - Version 1.10 Released
+----------------------------------
+- Added spear pinning challenges
+- Added kill scoring challenges
+- Added region travel challenges
+- Added EggBug escort challenge
+- Added highscore reset button
+- Added win condition option
+- Fixed an issue with save slots
+- Tentacle Plant renamed to Monster Kelp
+- Backup now occurs when starting a new run
+- Faster Movement perk now more useful for Hunter
+- More UI changes to the Expedition screen
+----------------------------------
 [24/08/20] - Version 1.05 Released
 ----------------------------------
 - Fixed combat challenge text being overwritten once completed.
@@ -15,3 +29,4 @@
 ----------------------------------
 [21/08/20] - Version 1.0 Released
 ----------------------------------
+- Initial release
