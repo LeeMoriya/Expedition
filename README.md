@@ -1,8 +1,8 @@
-![ExpeditionMenu](https://i.imgur.com/bzV99Hn.png)
+![ExpeditionMenu](https://i.imgur.com/weaShqs.png)
 # Expedition
-**[UPDATE 24/08/20] Version 1.05 released, [view the changelog here](https://github.com/LeeMoriya/Expedition/blob/master/Changelog.txt)**
+**[UPDATE 12/09/20] Version 1.05 released, [view the changelog here](https://github.com/LeeMoriya/Expedition/blob/master/Changelog.txt)**
 
-**This mod now supports [AutoUpdate](https://beestuff.pythonanywhere.com/audb/api/mods/0/0/download/latest), keep both enabled and you'll always recieve the latest version when it's available.**
+**This mod supports [AutoUpdate](https://beestuff.pythonanywhere.com/audb/api/mods/0/0/download/latest), keep both enabled and you'll always recieve the latest version when it's available.**
 
 Expedition is a new gamemode for Rain World featuring random starting locations, challenges, new abilities and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random tasks. Earn points by taking on more and more difficult challenges to unlock new perks and abilities.
 
@@ -36,7 +36,7 @@ Karma flowers act as your safety net, as permadeath will not occur if your karma
 There are five types of challenges in Expedition mode:
 
 - Pearls: Challenges related to pearl collecting.
-- Combat: Kill the specified amount of a certain creature.
+- Combat: Challenges involving creature slaying.
 - Echo: Encounter the specified Echo.
 - Achievement: Earn the specified achievement.
 - Miscellaneous: Challenges that don't fit in other categories
