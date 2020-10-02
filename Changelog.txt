@@ -1,11 +1,12 @@
 ----------------------------------
 [02/10/20] - Version 1.15 Released
 ----------------------------------
-- Added active burdens to the pause and continue screen.",
-- Added Despised burden, beware the Scavenger death squads",
-- Added Pursued burden, creatures will try to ambush you in previously visited rooms",
-- Added Soaked burden, short bursts of rain will occur during each cycle",
-- Small compatibilty fix for Hunter Cycles",
+- Added active burdens to the pause and continue screen
+- Added Despised burden, beware the Scavenger death squads
+- Added Pursued burden, creatures will try to ambush you in previously visited room
+- Added Soaked burden, short bursts of rain will occur during each cycle
+- Small compatibilty fix for Hunter Cycles
+- Maxing the food meter will now cure your starvation for that cycle with the Starved burden
 ----------------------------------
 [12/09/20] - Version 1.10 Released
 ----------------------------------
