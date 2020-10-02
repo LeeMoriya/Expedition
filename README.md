@@ -1,6 +1,6 @@
 ![ExpeditionMenu](https://i.imgur.com/weaShqs.png)
 # Expedition
-**[UPDATE 12/09/20] Version 1.10 released, [view the changelog here](https://github.com/LeeMoriya/Expedition/blob/master/Changelog.txt)**
+**[UPDATE 02/10/20] Version 1.15 released, [view the changelog here](https://github.com/LeeMoriya/Expedition/blob/master/Changelog.txt)**
 
 **This mod supports [AutoUpdate](https://beestuff.pythonanywhere.com/audb/api/mods/0/0/download/latest), keep both enabled and you'll always recieve the latest version when it's available.**
 
