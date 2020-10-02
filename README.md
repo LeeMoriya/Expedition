@@ -10,7 +10,7 @@ Expedition is a new gamemode for Rain World featuring random starting locations,
 
 ## Installation
 
-**[Download the latest version of Expedition here](https://github.com/LeeMoriya/Expedition/releases/tag/v1.10)**
+**[Download the latest version of Expedition here](https://github.com/LeeMoriya/Expedition/releases/tag/v1.15)**
 
 
 **[Enum Extender](https://beestuff.pythonanywhere.com/audb/api/mods/0/1/download/latest)** is required for Expedition to function correctly, you can find this in the 'Tools' tab on RainDB.
@@ -67,6 +67,9 @@ Burdens are additional penalties you can apply to your expedition to make it har
 - Starved: You begin each cycle malnourished and prone to exhaustion.
 - Blinded: All regions become shrouded in darkness.
 - Doomed: Adjustable cycle limit, more points are earned for fewer cycles.
+- Despised: Minimum reputation with all creatures, hunted by Scav death squads.
+- Pursued: New creatures may appear in previously visited rooms to ambush you.
+- Soaked: Intermittent rain occurs through the cycle.
 
 ## Additional Information
 
