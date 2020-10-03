@@ -6,7 +6,11 @@
 - Added Pursued burden, creatures will try to ambush you in previously visited rooms
 - Added Soaked burden, short bursts of rain will occur during each cycle
 - Small compatibilty fix for Hunter Cycles
-- Maxing the food meter will now cure your starvation for that cycle with the Starved burden
+- Hotfix: Fixed fuzzy text labels
+- Hotfix: A full stomach will now end starvation for that cycle with Starved
+- Hotfix: Despised burden now spawns additions scavs in the region
+- Hotfix: Soaked burden rain bursts are now shorter, but more frequent
+- Hotfix: Pursued creature chances adjusted and new creatures added to pool
 ----------------------------------
 [12/09/20] - Version 1.10 Released
 ----------------------------------
