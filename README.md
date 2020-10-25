@@ -1,4 +1,4 @@
-![ExpeditionMenu](https://i.imgur.com/2iQC1L8.png)
+![ExpeditionMenu](https://i.imgur.com/q8dEE7x.png)
 # Expedition
 **[UPDATE 25/10/20] Version 1.2 released, [view the changelog here](https://github.com/LeeMoriya/Expedition/blob/master/Changelog.txt)**
 
