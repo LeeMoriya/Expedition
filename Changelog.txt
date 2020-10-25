@@ -1,4 +1,18 @@
 ----------------------------------
+[25/10/20] - Version 1.2 Released
+----------------------------------
+New, more compact redesign that works with 4:3 monitors
+4:3 support for the pause menu and expedition win screen
+Removed EnumExtender requirement, and resolved some exceptions
+Expanded start unlock is now the default, replaced with 'Start with Vulture mask'
+Improved kill count challenge compatibility with Jolly Coop mod
+Some point balancing for Pearl, Combat and Echo challenges
+Soaked burden burst strength now tied to cycle progression
+Number of additional Scavs spawned by Despised burden decreased
+You can now warp across regions with Mark and Recall
+Minor tweaks to individual point rewards
+Starved burden actually fixed this time
+----------------------------------
 [02/10/20] - Version 1.15 Released
 ----------------------------------
 - Added active burdens to the pause and continue screen
@@ -8,7 +22,7 @@
 - Small compatibilty fix for Hunter Cycles
 - Hotfix: Fixed fuzzy text labels
 - Hotfix: A full stomach will now end starvation for that cycle with Starved
-- Hotfix: Despised burden now spawns additions scavs in the region
+- Hotfix: Despised burden now spawns additional scavs in the region
 - Hotfix: Soaked burden rain bursts are now shorter, but more frequent
 - Hotfix: Pursued creature chances adjusted and new creatures added to pool
 ----------------------------------
