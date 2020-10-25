@@ -45,7 +45,7 @@ Earned by acquiring a certain total number of points from successful expeditions
 **Perks**
 - Start with reinforced karma
 - Start with neuron glow
-- Expand possible starting locations
+- Start with a Vulture Mask
 - Start with higher karma
 - All slugcats move faster
 
@@ -54,7 +54,7 @@ Earned by acquiring a certain total number of points from successful expeditions
 - Spear Expert (You can carry a spear in each hand, and all slugcats can carry a spear on their back)
 - Stealth form (A camouflaged form that makes you much harded to detect)
 - Double jump (Jump a second time in mid-air, or launch high into the air from a crouched position)
-- Mark and Recall (Place a warp marker at your current location and return to it from anywhere in the same region)
+- Mark and Recall (Place a warp marker at your current location and return to it from anywhere)
 
 ## Burdens
 
