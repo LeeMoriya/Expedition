@@ -2,8 +2,6 @@
 # Expedition
 **[UPDATE 25/10/20] Version 1.2 released, [view the changelog here](https://github.com/LeeMoriya/Expedition/blob/master/Changelog.txt)**
 
-**This mod supports [AutoUpdate](https://beestuff.pythonanywhere.com/audb/api/mods/0/0/download/latest), keep both enabled and you'll always recieve the latest version when it's available.**
-
 Expedition is a new gamemode for Rain World featuring random starting locations, challenges, new abilities and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random tasks. Earn points by taking on more and more difficult challenges to unlock new perks and abilities.
 
 [Watch the release trailer here!](https://streamable.com/d6h8mi)
