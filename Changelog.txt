@@ -1,5 +1,5 @@
 ----------------------------------
-[25/10/20] - Version 1.2 Released
+[25/10/20] - Version 1.21 Released
 ----------------------------------
 - New, more compact redesign that works with 4:3 monitors
 - 4:3 support for the pause menu and expedition win screen
@@ -12,6 +12,9 @@
 - You can now warp across regions with Mark and Recall
 - Minor tweaks to individual point rewards
 - Starved burden actually fixed this time
+- Hotfix: Soaked burden rain burst gap duration tweaked. 
+- Hotfix: Rain burst gap increased in Farm Arrays to make traversal by Deer easier.
+- Hotfix: Rain meter now turns blue during rain bursts to help you avoid exiting interiors straight into rain.
 ----------------------------------
 [02/10/20] - Version 1.15 Released
 ----------------------------------
