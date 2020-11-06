@@ -36,6 +36,9 @@ There are five types of challenges in Expedition mode:
 - Achievement: Earn the specified achievement.
 - Miscellaneous: Challenges that don't fit in other categories
 
+Create your own custom Expeditions with the Challenge Builder!
+[ChallengeBuilder](https://i.imgur.com/HfhXuiV.png)
+
 ## Unlocks
 
 Earned by acquiring a certain total number of points from successful expeditions you can unlock the following perks and abilities to assist with future runs:
