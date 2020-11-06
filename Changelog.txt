@@ -1,4 +1,16 @@
 ----------------------------------
+[06/11/20] - Version 1.25 Released
+----------------------------------
+- Added the Challenge Builder!
+- Customise your Expedition to your liking by hand-picking challenges.
+- Adjust the target value like Kill Count, Pearl Numbers and more.
+- Expedition is now self-updating!
+- When new versions are available you will recieve a popup asking you to update.
+- If you choose to skip the update, you will not be notified until a newer version is available.
+- You can update at any time using the button in the Expedition Options screen.
+- Clicking Update will download the latest version from the GitHub page.
+- Your Expedition save data will be backed-up to a folder matching the current version number.
+----------------------------------
 [25/10/20] - Version 1.21 Released
 ----------------------------------
 - New, more compact redesign that works with 4:3 monitors
