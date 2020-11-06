@@ -37,7 +37,7 @@ There are five types of challenges in Expedition mode:
 - Miscellaneous: Challenges that don't fit in other categories
 
 Create your own custom Expeditions with the Challenge Builder!
-[ChallengeBuilder](https://i.imgur.com/HfhXuiV.png)
+![ChallengeBuilder](https://i.imgur.com/HfhXuiV.png)
 
 ## Unlocks
 
