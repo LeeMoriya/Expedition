@@ -3,7 +3,7 @@ Customise your Expedition to your liking by hand-picking challenges.<LINE>
 Adjust the target value like Kill Count, Pearl Numbers and more.<LINE><LINE>
 Expedition is now self-updating!<LINE>
 When new versions are available you will recieve a popup asking you to update.<LINE>
+Clicking Update will download the latest version from the GitHub page.<LINE>
+Your Expedition save data will be backed-up to a folder matching the current version number.<LINE>
 If you choose to skip the update, you will not be notified until a newer version is available.<LINE>
 You can update at any time using the button in the Expedition Options screen.<LINE>
-Clicking Update will download the latest version from the GitHub page.<LINE>
-Your Expedition save data will be backed-up to a folder matching the current version number.
