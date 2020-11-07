@@ -12,7 +12,9 @@ Expedition is a new gamemode for Rain World featuring random starting locations,
 
 To install Expeditions, simply place the Expedition.dll file into your 'Mods' folder and apply it with Partiality, or if using BepInEx, place it in your Plugins folder.
 
-Expedition also supports **[AutoUpdate](https://beestuff.pythonanywhere.com/audb/api/mods/0/0/download/latest)**, enable both mods and you'll always receive the latest version when its available.
+Expedition is self-updating! When newer versions of the mod are available, you will receive a popup notifying you when entering the Expedition screen:
+![Updater](https://i.imgur.com/8yixASS.png)
+
 
 ## Difficulty
 
