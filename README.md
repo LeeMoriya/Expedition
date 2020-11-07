@@ -1,6 +1,6 @@
 ![ExpeditionMenu](https://i.imgur.com/AnH4BfK.png)
 # Expedition
-**[UPDATE 06/11/20] Version 1.25 released, [view the changelog here](https://github.com/LeeMoriya/Expedition/blob/master/Changelog.txt)**
+**[UPDATE 07/11/20] Version 1.25 released, [view the changelog here](https://github.com/LeeMoriya/Expedition/blob/master/Changelog.txt)**
 
 Expedition is a new gamemode for Rain World featuring random starting locations, challenges, new abilities and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random tasks. Earn points by taking on more and more difficult challenges to unlock new perks and abilities.
 
