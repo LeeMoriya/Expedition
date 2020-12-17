@@ -8,7 +8,7 @@ Expedition is a new gamemode for Rain World featuring random starting locations,
 
 ## Installation
 
-**[Download the latest version of Expedition here](https://github.com/LeeMoriya/Expedition/releases/tag/v1.2)**
+**[Download the latest version of Expedition here](https://github.com/LeeMoriya/Expedition/releases/tag/v1.25)**
 
 To install Expedition, simply place the Expedition.dll file into your 'Mods' folder and apply it with Partiality, or if using BepInEx, place it in your Plugins folder.
 
