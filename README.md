@@ -88,4 +88,4 @@ In the event that a challenge becomes impossible to complete, e.g. a pearl becom
 
 Save data for both your current Expedition and your global progress is stored in your UserData folder.
 
-Expedition V1.3 and above feature debug controls you can find [here](https://github.com/LeeMoriya/Expedition/blob/master/Debug.txt)
+Expedition V1.3 and above features debug controls you can find [here](https://github.com/LeeMoriya/Expedition/blob/master/Debug.txt)
