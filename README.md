@@ -1,6 +1,6 @@
 ![ExpeditionMenu](https://i.imgur.com/AnH4BfK.png)
 # Expedition ![GitHub all releases](https://img.shields.io/github/downloads/LeeMoriya/Expedition/total?style=for-the-badge)
-**[UPDATE 07/11/20] Version 1.25 released, [view the changelog here](https://github.com/LeeMoriya/Expedition/blob/master/Changelog.txt)**
+**[UPDATE 20/03/21] Version 1.3 released, [view the changelog here](https://github.com/LeeMoriya/Expedition/blob/master/Changelog.txt)**
 
 Expedition is a new gamemode for Rain World featuring random starting locations, challenges, new abilities and permadeath. Embark on a new expedition as Monk, Survivor or Hunter with the goal of completing a list of random tasks. Earn points by taking on more and more difficult challenges to unlock new perks and abilities.
 
@@ -8,7 +8,7 @@ Expedition is a new gamemode for Rain World featuring random starting locations,
 
 ## Installation
 
-**[Download the latest version of Expedition here](https://github.com/LeeMoriya/Expedition/releases/tag/v1.25)**
+**[Download the latest version of Expedition here](https://github.com/LeeMoriya/Expedition/releases/tag/v1.3)**
 
 To install Expedition, simply place the Expedition.dll file into your 'Mods' folder and apply it with Partiality, or if using BepInEx, place it in your Plugins folder.
 
