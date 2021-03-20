@@ -87,3 +87,4 @@ With the exception of Echo and Achievement challenges, progress towards challeng
 In the event that a challenge becomes impossible to complete, e.g. a pearl becomes lost. You can end the Expedition prematurely by entering the void sea. You will not be forced through the entire sequence, but points for incomplete challenges will not be awarded.
 
 Save data for both your current Expedition and your global progress is stored in your UserData folder.
+Expedition V1.3 and above feature debug controls you can find [here](https://github.com/LeeMoriya/Expedition/blob/master/Debug.txt)
