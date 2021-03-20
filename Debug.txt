@@ -1,0 +1,26 @@
+Expedition v1.3 and above features a debug mode
+
+I strongly recommend making a backup of your
+'expeditionMisc.sav' file in your UserData
+folder before using these controls.
+
+To enable debug mode hold F11 when entering the
+Expedition screen from the Main Menu, you will
+hear a sound indicating you have done this.
+
+Debug mode controls will be listed on the left
+of the Expedition menu, they are:
+
+Hold F9 while entering the Expedition screen 
+to unlock everything.
+
+Hold P while entering the Expedition screen 
+to enable the point button.
+
+Press F1-F6 on the continue screen to complete 
+that challenge.
+
+Press F1-F6 while in-game to complete that 
+challenge.
+
+Hold F7 while in-game to speed up the cycle.
