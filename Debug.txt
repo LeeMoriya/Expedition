@@ -1,4 +1,9 @@
-Expedition v1.3 and above features a debug mode
+-----------------------------------------------
+A core part of Expedition's gameplay loop is
+the progression tied to unlocking new abilities
+and burdens, because of this please don't
+openly share these controls unless asked.
+-----------------------------------------------
 
 I strongly recommend making a backup of your
 'expeditionMisc.sav' file in your UserData
