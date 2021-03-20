@@ -1,4 +1,17 @@
 ----------------------------------
+[20/03/21] - Version 1.30 Released
+----------------------------------
+- Adjusted additional scav spawns for Despised
+- Adjusted scav behaviour near Shelters and Gates
+- Adjusted labels for various challenges
+- Updated Mark and Recall warp logic, correctly transports item
+- Added cheat/debug controls, information on the Github page
+- Adjusted cooldowns for Slow Time and Stealth Form perks
+
+Improved Jolly-Coop Support:
+- Stealth Form and Double Jump perks now work for all players
+- Mark and Recall now works with multiple players
+----------------------------------
 [07/11/20] - Version 1.25 Released
 ----------------------------------
 - Added the Challenge Builder!
