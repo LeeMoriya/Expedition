@@ -13,6 +13,10 @@ To enable debug mode hold F11 when entering the
 Expedition screen from the Main Menu, you will
 hear a sound indicating you have done this.
 
+Note: The Update popup will trigger in debug
+mode even if you are on the current version
+you can safely ignore this.
+
 Debug mode controls will be listed on the left
 of the Expedition menu, they are:
 
